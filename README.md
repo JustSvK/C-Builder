@@ -34,10 +34,10 @@ And btw if you thought that FacelesS quitted, no he didn't. His new name: YaBoiD
 
 Credits:
 
-Stex for webcam pic(Stex hacked him long time ago, mad respect)
+Grando for webcam pic(Grando hacked him long time ago, Stex shared it)
 
 Gorilla(TracelesS) for deleting his discord and for giving me the source code
 
-Grando
+Stex for sharing the webcam pic
 
-JustSvK :D
+JustSvK :D for unpacking his gay stubs
