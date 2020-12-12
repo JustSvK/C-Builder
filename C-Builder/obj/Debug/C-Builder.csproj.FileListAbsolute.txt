@@ -1,0 +1,40 @@
+C:\Users\noelx\source\repos\C-Builder - Copy\C-Builder\bin\Debug\C-Builder.exe.config
+C:\Users\noelx\source\repos\C-Builder - Copy\C-Builder\bin\Debug\C-Builder.exe
+C:\Users\noelx\source\repos\C-Builder - Copy\C-Builder\bin\Debug\C-Builder.pdb
+C:\Users\noelx\source\repos\C-Builder - Copy\C-Builder\bin\Debug\MetroFramework.dll
+C:\Users\noelx\source\repos\C-Builder - Copy\C-Builder\obj\Debug\C_Builder.Form1.resources
+C:\Users\noelx\source\repos\C-Builder - Copy\C-Builder\obj\Debug\C_Builder.Properties.Resources.resources
+C:\Users\noelx\source\repos\C-Builder - Copy\C-Builder\obj\Debug\C-Builder.csproj.GenerateResource.cache
+C:\Users\noelx\source\repos\C-Builder - Copy\C-Builder\obj\Debug\C-Builder.csproj.CoreCompileInputs.cache
+C:\Users\noelx\source\repos\C-Builder - Copy\C-Builder\obj\Debug\C-Builder.csproj.CopyComplete
+C:\Users\noelx\source\repos\C-Builder - Copy\C-Builder\obj\Debug\C-Builder.exe
+C:\Users\noelx\source\repos\C-Builder - Copy\C-Builder\obj\Debug\C-Builder.pdb
+C:\Users\noelx\source\repos\C-Builder\C-Builder\bin\Debug\C-Builder.exe.config
+C:\Users\noelx\source\repos\C-Builder\C-Builder\bin\Debug\C-Builder.exe
+C:\Users\noelx\source\repos\C-Builder\C-Builder\bin\Debug\C-Builder.pdb
+C:\Users\noelx\source\repos\C-Builder\C-Builder\bin\Debug\MetroFramework.Design.dll
+C:\Users\noelx\source\repos\C-Builder\C-Builder\bin\Debug\MetroFramework.dll
+C:\Users\noelx\source\repos\C-Builder\C-Builder\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\noelx\source\repos\C-Builder\C-Builder\obj\Debug\C_Builder.Builder.resources
+C:\Users\noelx\source\repos\C-Builder\C-Builder\obj\Debug\C_Builder.Login.resources
+C:\Users\noelx\source\repos\C-Builder\C-Builder\obj\Debug\C_Builder.Properties.Resources.resources
+C:\Users\noelx\source\repos\C-Builder\C-Builder\obj\Debug\C-Builder.csproj.GenerateResource.cache
+C:\Users\noelx\source\repos\C-Builder\C-Builder\obj\Debug\C-Builder.csproj.CoreCompileInputs.cache
+C:\Users\noelx\source\repos\C-Builder\C-Builder\obj\Debug\C-Builder.csproj.CopyComplete
+C:\Users\noelx\source\repos\C-Builder\C-Builder\obj\Debug\C-Builder.exe
+C:\Users\noelx\source\repos\C-Builder\C-Builder\obj\Debug\C-Builder.pdb
+C:\Users\Ege\Desktop\C-Builder\C-Builder\bin\Debug\C-Builder.exe.config
+C:\Users\Ege\Desktop\C-Builder\C-Builder\bin\Debug\C-Builder.exe
+C:\Users\Ege\Desktop\C-Builder\C-Builder\bin\Debug\C-Builder.pdb
+C:\Users\Ege\Desktop\C-Builder\C-Builder\bin\Debug\MetroFramework.Design.dll
+C:\Users\Ege\Desktop\C-Builder\C-Builder\bin\Debug\MetroFramework.dll
+C:\Users\Ege\Desktop\C-Builder\C-Builder\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Ege\Desktop\C-Builder\C-Builder\obj\Debug\C-Builder.csprojAssemblyReference.cache
+C:\Users\Ege\Desktop\C-Builder\C-Builder\obj\Debug\C_Builder.Builder.resources
+C:\Users\Ege\Desktop\C-Builder\C-Builder\obj\Debug\C_Builder.Login.resources
+C:\Users\Ege\Desktop\C-Builder\C-Builder\obj\Debug\C_Builder.Properties.Resources.resources
+C:\Users\Ege\Desktop\C-Builder\C-Builder\obj\Debug\C-Builder.csproj.GenerateResource.cache
+C:\Users\Ege\Desktop\C-Builder\C-Builder\obj\Debug\C-Builder.csproj.CoreCompileInputs.cache
+C:\Users\Ege\Desktop\C-Builder\C-Builder\obj\Debug\C-Builder.csproj.CopyComplete
+C:\Users\Ege\Desktop\C-Builder\C-Builder\obj\Debug\C-Builder.exe
+C:\Users\Ege\Desktop\C-Builder\C-Builder\obj\Debug\C-Builder.pdb

